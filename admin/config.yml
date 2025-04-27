@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: your-github-username/your-repository-name
+  repo: your-github-username/meow-pizza
   branch: main
 
 media_folder: "uploads"
